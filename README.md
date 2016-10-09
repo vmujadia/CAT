@@ -1,5 +1,8 @@
-# CAT
+# CAT (Coreference Annotation Tool)
+---
+---
 
+This tool is designed to annotate coreferences and thier relations present in the text.
 
 
 
